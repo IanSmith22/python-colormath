@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-VERSION = "3.0.0"
+VERSION = "0.0.dev1+local"
