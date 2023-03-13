@@ -44,11 +44,14 @@ dev = [
   'nose',
   'pre-commit',
   'sphinx',
+  'twine',
+  'keyring',
+  'artifacts-keyring',
 ]
 
 
 [project.urls]
-"Homepage" = "https://github.com/gtaylor/python-colormath"
+"Homepage" = "https://github.com/IanSmith22/python-colormath/tree/3b6b6890e776e65c5b391759ebb5476c97d0042b"
 
 [project.scripts]
 
